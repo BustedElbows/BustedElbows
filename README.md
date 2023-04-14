@@ -5,4 +5,4 @@
 ⚡ Fun fact: Remember to update your jQuery.
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=docker, linux, bash, ?theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=docker,linux,bash,?theme=dark)](https://skills.thijs.gg)
