@@ -1,8 +1,10 @@
-### Hi there 👋
+### #!bin/bash
+### echo "Hello world"
 
-🔭 I’m currently working on my personal things.
-💬 Ask me about anything you need help with.
-⚡ Fun fact: Remember to update your jQuery.
+⚡ Fun fact: Cybersecurity is like an Onion.
+There's layers, and at some point you start to cry.
+
+
 
 
 [![My Skills](https://skills.thijs.gg/icons?i=linux,bash,docker,mysql,?theme=dark)](https://skills.thijs.gg)
