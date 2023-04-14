@@ -7,4 +7,4 @@ There's layers, and at some point you start to cry.
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=linux,bash,py,mysql,?theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=linux,bash,py,mysql,docker,?theme=dark)](https://skills.thijs.gg)
