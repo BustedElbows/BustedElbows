@@ -1,12 +1,7 @@
     #!bin/bash
     echo "Hello world"
 ### Hello 👋
-I'm Vladimir, still a student. 
-
-Currently studying Electrotechnics and Telecommunication at school.
-In my free time I've been studying Cybersecurity, and I've been doing it for a few years now, started around the pandemic.
-
-I always love learning new things, techniques and expanding my knowledge base.
+Still a student.
 
 > Fun fact: Cybersecurity is like an Onion. There's layers, and at some point you start to cry.
 
