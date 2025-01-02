@@ -1,7 +1,4 @@
-    #!bin/bash
-    echo "Hello world"
-### Hello 👋
-Still a student.
+
 
 > Fun fact: Cybersecurity is like an Onion. There's layers, and at some point you start to cry.
 
